@@ -1,2 +1,2 @@
 This is the README file for the Hello-world project.
-Author's email: Bob@naver.com
+Author's email: Alice@naver.com
